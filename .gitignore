@@ -1,0 +1,5 @@
+build/*.s
+build/*.nes
+build/*.dbg
+build/labels.txt
+content/audio/*.s
